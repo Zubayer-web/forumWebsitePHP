@@ -1,0 +1,46 @@
+.bg-color{
+    background-color: #8540F5;
+}
+.form-footer {
+    text-align: right;
+}
+.container1{
+    width: 70%;
+    margin: 0 auto;
+}
+.card {
+    margin: auto;
+}
+.jambutron-area{
+    background-color: #CED4DA;  
+}
+.mr-3 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+#spacing {
+    min-height: 320px;
+}
+.cus-img {
+    width: 350px;
+    height: 200px;
+}
+.cus-img img {
+    width: 100%;
+    height: 100%;
+}
+.modal-dialog {
+    max-width: 600px;
+}
+.modal-body {  
+    padding: 2rem;
+}
+.min-height{
+    min-height: 100vh;
+}
+.float-end.c-width {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
